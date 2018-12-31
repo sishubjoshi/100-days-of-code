@@ -11,3 +11,5 @@ My 100daysofcode challenge
 | 004 | Dec 24, 2018 | Python refresher and Pong game(python) | [tutorial by fcc](https://www.youtube.com/watch?v=C6jJg9Zan7) |
 | 005 | Dec 25, 2018 | finished projects of responsive web design | [freecodecamp](https://learn.freecodecamp.org/) |
 | 006 | Dec 26, 2018 | stack and queue | soon |
+| 007 | Dec 27, 2018 | Starting Competitive programming | at [codechef](https://codechef.com) |
+
