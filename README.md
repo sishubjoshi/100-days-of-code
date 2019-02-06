@@ -18,5 +18,6 @@ My 100daysofcode challenge
 | 011 | Dec 31, 2018 | more JAVA and survey form | OOPS concepts, at [hackerrank](https://hackerrank.com) |
 | 012 | Jan 01, 2019 | JAVA day 3 | OOPS concepts(inheritance) |
 | 013 | Jan 02, 2019 | Javascript(10-20 questions) | [freecodecamp](https://learn.freecodecamp.org/) |
-| 014 | Jan 03, 2019 | Javascript(ES6 section) | [freecodecamp](https://learn.freecodecamp.org/) |
+| 014 | Jan 04, 2019 | Javascript(ES6 section) | [freecodecamp](https://learn.freecodecamp.org/) |
+| 015 | Jan 05, 2019 | Regular Expressions and ANiME:-) | [freecodecamp](https://learn.freecodecamp.org/) |
 
