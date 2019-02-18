@@ -21,5 +21,6 @@ My 100daysofcode challenge
 | 014 | Jan 04, 2019 | Javascript(ES6 section) | [freecodecamp](https://learn.freecodecamp.org/) |
 | 015 | Jan 05, 2019 | Regular Expressions and ANiME:-) | [freecodecamp](https://learn.freecodecamp.org/) |
 | 016 | Jan 06, 2019 | Regex,Debugging,Bootstrap,SASS,jQuery | [freecodecamp](https://learn.freecodecamp.org/) |
+| 017 | Jan 07, 2019 | DS in Javascript, Machine Learning | [freecodecamp](https://learn.freecodecamp.org/) |
 
 
